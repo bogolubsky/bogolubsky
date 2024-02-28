@@ -1,7 +1,7 @@
 # 👋🏻 Hi, my name is **Kirill Bogolyubsky**!
 ## I'm a *Vue Front-End developer* from Odessa.
 ### Check my website: [portfolio](https://portfolio-nine-fawn-14.vercel.app)
-[![codewars](https://www.codewars.com/users/kirilhr/badges/large)](https://www.codewars.com/users/kirilhr)   
+[![codewars](https://www.codewars.com/users/kirillhr/badges/large)](https://www.codewars.com/users/kirillhr)   
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
