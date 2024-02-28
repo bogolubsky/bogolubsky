@@ -11,7 +11,7 @@
 ![VueJs](https://img.shields.io/badge/-PINIA-090909?style=for-the-badge&logo=pinia)
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt)
 ### ✉️ Mail me: kboholyubsjkyj@onvk67.info
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
