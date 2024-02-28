@@ -7,8 +7,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![VueJs](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=vue)
-![VueJs](https://img.shields.io/badge/-VUEX-090909?style=for-the-badge&logo=vuex)
-![VueJs](https://img.shields.io/badge/-PINIA-090909?style=for-the-badge&logo=pinia)
+![Vuex](https://img.shields.io/badge/-VUEX-090909?style=for-the-badge&logo=vuex)
+![Pinia](https://img.shields.io/badge/-PINIA-090909?style=for-the-badge&logo=pinia)
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt)
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/kirillhr/badges/large) <br/>
