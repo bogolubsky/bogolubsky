@@ -16,15 +16,9 @@
 
 ### ⚙️ Codewars и GitHub статистика:
 <table>
-  <tr>
-    <td>
-      ![Codewars](https://github.r2v.ch/codewars?user=kirillhr&stroke=%23BB432C)
-    </td>
-    <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-  </tr>
-</table>
+![Codewars](https://github.r2v.ch/codewars?user=kirillhr&stroke=%23BB432C)
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✉️ Mail me: kboholyubsjkyj@onvk67.info
 #
