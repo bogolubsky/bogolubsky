@@ -14,12 +14,12 @@
 
 ![codewars](https://www.codewars.com/users/kirillhr/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ Codewars и GitHub статистика:
 
 ![Codewars](https://github.r2v.ch/codewars?user=kirillhr&stroke=%23BB432C)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✉️ Mail me: kboholyubsjkyj@onvk67.info
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
