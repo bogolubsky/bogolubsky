@@ -13,9 +13,6 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/kirillhr/badges/large)
-
-### ⚙️ Codewars статистика:
-
 ![Codewars](https://github.r2v.ch/codewars?user=kirillhr&stroke=%23BB432C)
 
 ### ⚙️ Githab статистика:
