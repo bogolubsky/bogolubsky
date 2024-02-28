@@ -7,6 +7,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![VueJs](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=vue)
+![VueJs](https://img.shields.io/badge/-VUEX-090909?style=for-the-badge&logo=vuex)
+![VueJs](https://img.shields.io/badge/-PINIA-090909?style=for-the-badge&logo=pinia)
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![NodeJs](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge)
