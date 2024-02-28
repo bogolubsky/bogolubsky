@@ -12,7 +12,7 @@
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt)
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/kirillhr/badges/large) <br/>
-  the maximum difficulty of the kata I performed was: <strong>3kyu</strong> <br/>
+  the maximum difficulty of the kata I performed was: <strong>3kyu</strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> <br/>
   tasks completed: <strong>113</strong> <br/>
   honor: <strong>743</strong> <br/>
 #### more information: [codewars.com/kirillhr](https://www.codewars.com/users/kirillhr)
