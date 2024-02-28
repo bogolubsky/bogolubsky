@@ -20,9 +20,9 @@ honor: <strong>743</strong> <br/>
 ### ⚙️ Githab статистика:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 ### ✉️ Mail me: kboholyubsjkyj@onvk67.info
+![](https://komarev.com/ghpvc/?kirillhr=your-github-username)
 #
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
