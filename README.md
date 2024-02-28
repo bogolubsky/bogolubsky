@@ -14,9 +14,12 @@
 
 ![codewars](https://www.codewars.com/users/kirillhr/badges/large)
 
-### ⚙️ Codewars и GitHub статистика:
+### ⚙️ Codewars статистика:
 
 ![Codewars](https://github.r2v.ch/codewars?user=kirillhr&stroke=%23BB432C)
+
+### ⚙️ Githab статистика:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✉️ Mail me: kboholyubsjkyj@onvk67.info
