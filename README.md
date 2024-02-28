@@ -19,7 +19,7 @@
   <tr>
     <td>
       ![Codewars](https://github.r2v.ch/codewars?user=kirillhr&stroke=%23BB432C)
-      </td>
+    </td>
     <td>
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     </td>
