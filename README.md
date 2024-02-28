@@ -1,7 +1,7 @@
 # 👋🏻 Hi, my name is **Kirill Bogolyubsky**!
 ## I'm a *Vue Front-End developer* from Odessa.
 ### Check my website: [portfolio](https://portfolio-nine-fawn-14.vercel.app)
-### Languages and Technologies 
+### Languages and Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
@@ -12,7 +12,7 @@
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt)
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/kirillhr/badges/large) <br/>
-  the maximum difficulty of the kata I performed was: <strong>3kyu</strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> <br/>
+  the maximum difficulty of the kata I performed was: <strong>3kyu</strong> <br/>
   tasks completed: <strong>113</strong> <br/>
   honor: <strong>743</strong> <br/>
 #### more information: [codewars.com/kirillhr](https://www.codewars.com/users/kirillhr)
