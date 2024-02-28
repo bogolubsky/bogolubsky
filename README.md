@@ -11,7 +11,7 @@
 ![VueJs](https://img.shields.io/badge/-PINIA-090909?style=for-the-badge&logo=pinia)
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt)
 ### 💻 Codewars:
-
+#
 ![codewars](https://www.codewars.com/users/kirillhr/badges/large)
 #### the maximum difficulty of the kata I performed was: 3kyu
 #### tasks completed: 113
