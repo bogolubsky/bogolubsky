@@ -16,9 +16,9 @@
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt)
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/kirillhr/badges/large) <br/>
-  the maximum difficulty of the kata I performed was: <strong>3kyu</strong> <br/>
-  tasks completed: <strong>113</strong> <br/>
-  honor: <strong>743</strong> <br/>
+•  the maximum difficulty of the kata I performed was: <strong>3kyu</strong> <br/>
+•  tasks completed: <strong>113</strong> <br/>
+•  honor: <strong>743</strong> <br/>  honor: <strong>743</strong> <br/>
 #### more information: [codewars.com/kirillhr](https://www.codewars.com/users/kirillhr)
 
 ### ⚙️ Githab статистика:
@@ -26,9 +26,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✉️ My contacts:
-✉ Mail me: kboholyubsjkyj@onvk67.info
-✉ My telegram: [t.me/potato_d](https://t.me/potato_d)
-![](https://komarev.com/ghpvc/?username=bogolubsky)
+• Mail me: kboholyubsjkyj@onvk67.info  <br/>
+• My telegram: [t.me/potato_d](https://t.me/potato_d)  <br/>
+![](https://komarev.com/ghpvc/?username=bogolubsky)  <br/>
 #
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
