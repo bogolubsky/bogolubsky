@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![Vue](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=vue)
+![VueJs](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=vue)
 ![Vuex](https://img.shields.io/badge/-VUEX-090909?style=for-the-badge&logo=vuex)
 ![Pinia](https://img.shields.io/badge/-PINIA-090909?style=for-the-badge&logo=pinia)
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt)
@@ -26,6 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✉️ Mail me: kboholyubsjkyj@onvk67.info
+### ✉️ My telegram: [t.me/potato_d](https://t.me/potato_d)
 ![](https://komarev.com/ghpvc/?username=bogolubsky)
 #
 > Talk is cheap. Show me the code. <br/>
