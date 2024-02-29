@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### ✉️ Mail me: kboholyubsjkyj@onvk67.info
+#### ✉️ Mail me: kboholyubsjkyj@onvk67.info
 #### ✉️ My telegram: [t.me/potato_d](https://t.me/potato_d)
 ![](https://komarev.com/ghpvc/?username=bogolubsky)
 #
