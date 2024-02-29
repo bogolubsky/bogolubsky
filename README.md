@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Kirill Bogolyubsky**!
-![Snake animation](https://raw.githubusercontent.com/{bogolubsky}/{bogolubsky}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/bogolubsky/bogolubsky/output/github-contribution-grid-snake-dark.svg)
 ## I am a *Vue Front-End developer* from Odessa. I have been involved in front-end development for more than 3 years. I spend most of my time on projects, solving interesting katas on Codewars or expanding my knowledge base.
 ### Check my website: [portfolio](https://portfolio-nine-fawn-14.vercel.app)
 ### Languages and Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
