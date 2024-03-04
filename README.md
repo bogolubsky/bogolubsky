@@ -1,4 +1,4 @@
-# 👋🏻 Hi, my name is **Kirill Bogolyubsky**!
+# 👋🏻 Hi, my name is **Kirill Bondarenko**!
 
 ![snake animation](https://github.com/bogolubsky/bogolubsky/blob/output/github-contribution-grid-snake2.svg)
 
