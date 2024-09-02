@@ -1,4 +1,4 @@
-# 👋🏻 Hi, my name is **Kirill Bondarenko**!
+# 👋🏻 Hi, my name is **Kirill Bogolyubsky**!
 
 ## I am a *Vue Front-End developer* from Odessa. I have been involved in front-end development for more than 3 years. I spend most of my time on projects, solving interesting katas on Codewars or expanding my knowledge base.
 ### Check my website: [portfolio](https://portfolio-nine-fawn-14.vercel.app)
