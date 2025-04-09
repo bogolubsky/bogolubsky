@@ -15,8 +15,8 @@
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/kirillhr/badges/large) <br/>
 •  The maximum difficulty of the kata I performed was: <strong>3kyu</strong> <br/>
-•  Tasks completed: <strong>113</strong> <br/>
-•  Honor: <strong>743</strong> <br/>
+•  Tasks completed: <strong>145</strong> <br/>
+•  Honor: <strong>1242</strong> <br/>
 #### More information: [codewars.com/kirillhr](https://www.codewars.com/users/kirillhr)
 
 ### ⚙️ Githab статистика:
