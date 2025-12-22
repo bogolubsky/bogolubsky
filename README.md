@@ -83,7 +83,7 @@ https://myportfolio-one-beta-73.vercel.app
 
 ## 📫 Contacts
 
-- 📧 Email: **kboholyubsjkyj@onvk67.info**
+- 📧 Email: **bogolubskijkirillo@gmail.com**
 - 💬 Telegram: https://t.me/potato_d
 
 ---
