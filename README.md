@@ -1,33 +1,92 @@
-# 👋🏻 Hi, my name is **Kirill Bogolyubsky**!
+# 👋 Hi, I’m Kirill Bogolyubsky
 
-## I am a *Vue Front-End developer* from Odessa. I have been involved in front-end development for more than 3 years. I spend most of my time on projects, solving interesting katas on Codewars or expanding my knowledge base.
-### Check my website: [portfolio](https://portfolio-nine-fawn-14.vercel.app)
-### Languages and Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![VueJs](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=vue)
-![Vuex](https://img.shields.io/badge/-VUEX-090909?style=for-the-badge&logo=vuex)
-![Pinia](https://img.shields.io/badge/-PINIA-090909?style=for-the-badge&logo=pinia)
-![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=Nuxt)
-### 💻 Codewars:
-![codewars](https://www.codewars.com/users/kirillhr/badges/large) <br/>
-•  The maximum difficulty of the kata I performed was: <strong>3kyu</strong> <br/>
-•  Tasks completed: <strong>145</strong> <br/>
-•  Honor: <strong>1242</strong> <br/>
-#### More information: [codewars.com/kirillhr](https://www.codewars.com/users/kirillhr)
+Frontend / Fullstack Developer from **Odessa, Ukraine 🇺🇦**  
+I have been developing in web technologies for **5+ years**, starting from the age of 11.
 
-### ⚙️ Githab статистика:
+I focus on building **fast, scalable, and clean web applications**, care about **code quality**, architecture, and refactoring.  
+Currently looking for **Frontend Developer** or **Fullstack Developer** positions (Intern / Junior).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### ✉️ My contacts:
-•  Mail me: kboholyubsjkyj@onvk67.info  <br/>
-•  My telegram: [t.me/potato_d](https://t.me/potato_d)  <br/>
-<br/>
-![](https://komarev.com/ghpvc/?username=bogolubsky)  <br/>
-#
-> Talk is cheap. Show me the code. <br/>
-> ***Linus Torvalds***
+## 🚀 Portfolio & Projects
+
+🌐 **Portfolio (animated & multilingual):**  
+https://myportfolio-one-beta-73.vercel.app
+
+🗂 **Fullstack Project — Task Tracker**
+- JWT authentication & authorization
+- REST API
+- Client–Server architecture
+- PostgreSQL + Prisma
+- React / Vue (depending on branch)
+
+> I prefer showing real projects rather than just listing technologies.
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+- JavaScript (ES6+), TypeScript
+- React, React Hooks, React Router, React Query
+- Redux, Zustand
+- Vue.js, Vue 3, Vue Router, Vuex, Pinia
+- Next.js, Nuxt.js
+- HTML5, CSS3, SASS, Pug
+- Bootstrap, Vuetify, PrimeVue
+- Framer Motion, GSAP
+- i18n (Vue-i18n, i18next)
+
+### Backend
+- Node.js
+- Express.js, NestJS
+- REST API
+- JWT Authentication
+- Prisma ORM
+
+### Databases
+- PostgreSQL
+- MongoDB
+- SQL
+
+### Tools & Practices
+- Git, GitHub
+- NPM, Yarn
+- Vite, Vue CLI
+- Postman
+- ESLint, Prettier
+- Figma
+- SOLID principles
+- OOP
+- Refactoring
+- Asynchronous programming
+
+---
+
+## 🧩 Codewars
+
+![codewars](https://www.codewars.com/users/kirillhr/badges/large)
+
+- Max kata difficulty: **3 kyu**
+- Tasks completed: **145**
+- Honor: **1242**
+
+🔗 https://www.codewars.com/users/kirillhr
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogolubsky&layout=compact&theme=dark)
+
+---
+
+## 📫 Contacts
+
+- 📧 Email: **kboholyubsjkyj@onvk67.info**
+- 💬 Telegram: https://t.me/potato_d
+
+---
+
+> *“Talk is cheap. Show me the code.”*  
+> — Linus Torvalds
