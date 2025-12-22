@@ -18,7 +18,7 @@ https://myportfolio-one-beta-73.vercel.app
 - REST API
 - Client–Server architecture
 - PostgreSQL + Prisma
-- React / Vue (depending on branch)
+- React (Next)
 
 > I prefer showing real projects rather than just listing technologies.
 
